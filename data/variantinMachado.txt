@@ -1,0 +1,267 @@
+Gene	Location	Mutation category	Nucleotide changea	Amino acid change	Frequency in this studyb	Clinical classification
+BMPR2	5'UTR to intron 3	Deletion	c.-127936_418+7067del	p.?		
+BMPR2	5'UTR	Transition	c.-669G>A	p.?		
+BMPR2	5'UTR to exon 1	Deletion	c.?_-540_76+?del	p.?		
+BMPR2	5_UTR to exon 13	Deletion	c.?__540_3117+?del	p.?	1	NK
+BMPR2	5_UTR to exon 1	Deletion	c.?__540_76+?del	p.?	1	NK
+BMPR2	Exons 1-13	Deletion	c.1-?_3117+?del	p.?		
+BMPR2	Exons 1-3	Deletion	c.1-?_418+?del	p.?		
+BMPR2	Exon 1	Deletion	c.1-?_76+?del	p.?		
+BMPR2	Exon 1	Deletion	c.1_?_76+?del	p.?	[3]	"I, NK (n=2)"
+BMPR2	Exon 8	Frameshift	c.1011_1015delAAATG	p.R337Sfs*6	1	I
+BMPR2	Exon 8	Missense	c.1016T>A	p.V339D		
+BMPR2	Exon 2	Frameshift	c.103delG	p.A35Rfs*12		
+BMPR2	Exon 8	Missense	c.1042G>A	p.V348I		
+BMPR2	Exon 8	Frameshift	c.1044delT	p.I349Lfs*8		
+BMPR2	Exon 8	Frameshift	c.1060delC	p.L354Cfs*3	1	NK
+BMPR2	Exon 8	Missense	c.1066A>T	p.M356L		
+BMPR2	Exon 8	Frameshift	c.1093_1098delinsG	p.R365Gfs*5		
+BMPR2	Exon 8	Missense	c.1117G>C	p.A373P		
+BMPR2	Exon 8	Nonsense	c.1126G>T	p.E376*	2	"I, NK"
+BMPR2	Intron 8	Splice-site	c.1128+1G>T	p.?		
+BMPR2	Intron 8	Splice-site	c.1129-3C>G	p.?		
+BMPR2	Exon 9	Frameshift	c.1129_1_1129dupGG	p.V377Gfs*13	1	I
+BMPR2	Exon 9	Frameshift	c.1141dupA	p.R381Kfs*18	1	H
+BMPR2	Exon 9	Frameshift	c.1141dupA	p.R381Kfs*18		
+BMPR2	Exon 9	Nonsense	c.1146T>G	p.Y382*		
+BMPR2	Exon 9	Missense	c.1151C>T	p.A384V		
+BMPR2	Exon 9	Missense	c.1156G>A	p.E386K		
+BMPR2	Exon 9	Missense	c.1156G>C	p.E386Q	1	NK
+BMPR2	Exon 9	Missense	c.1157A>C	p.E386A		
+BMPR2	Exon 9	Missense	c.1157A>G	p.E386G		
+BMPR2	Exon 2	Frameshift	c.116delC	p.P39Rfs*8		
+BMPR2	Exon 9	Missense	c.1175T>C	p.V392A		
+BMPR2	Exon 9	Nonsense	c.1207C>T	p.Q403*		
+BMPR2	Exon 9	Missense	c.1220A>C	p.Y407S	1	NK
+BMPR2	Exon 9	Nonsense	c.1221T>G	p.Y407*	1	H
+BMPR2	Exon 9	Missense	c.1228G>A	p.G410R		
+BMPR2	Exon 9	Nonsense	c.1243G>T	p.E415*		
+BMPR2	Exon 9	Missense	c.1258T>C	p.C420R		
+BMPR2	Exon 9	Missense	c.1259G>A	p.C420Y		
+BMPR2	Exon 9	Frameshift	c.1268dupT	p.F424Lfs*24	1	NK
+BMPR2	Intron 9	Splice-site	c.1276+3A>T	p.?		
+BMPR2	Exon 9	Missense	c.1276G>C	p.G426R	1	H
+BMPR2	Exon 10	Deletion	c.1277-?_1413+?del	p.?		
+BMPR2	Exon 10	Duplication	c.1277-?_1413+?dup	p.?		
+BMPR2	Introns 9-10	Deletion	c.1277-289_1413+4737del	p.?		
+BMPR2	Intron 9	Splice-site	c.1277-9A>G	p.?		
+BMPR2	Intron 9	Splice site	c.1277-8A>G	p.?	1	NK
+BMPR2	Intron 9	Splice site	c.1277-9A>C	p.?	1	H
+BMPR2	Exon 10	Frameshift	c.1279delG	p.E427Nfs*47	1	NK
+BMPR2	Exon 10	Frameshift	c.1285_1286insGGATT	p.V429Gfs*47	2	"I, NK"
+BMPR2	Exon 10	Frameshift	c.1293_1300delGTACCAGA	p.E431Dfs*14	1	NK
+BMPR2	Exon 10	Nonsense	c.1296C>G	p.Y432*		
+BMPR2	Exon 10	Nonsense	c.1297C>T	p.Q433*		
+BMPR2	Exon 10	Frameshift	c.1313_1316delCAGA	p.T438Rfs*35		
+BMPR2	Exon 10	Missense	c.1346T>G	p.M449R		
+BMPR2	Exon 10	Nonsense	c.1348C>T	p.Q450*		
+BMPR2	Exon 10	Frameshift	c.1366delinsCA	p.E456Qfs*15		
+BMPR2	Exon 10	Frameshift	c.1371delA	p.K457Nfs*17	1	H
+BMPR2	Exon 10	Frameshift	c.1371dupA	p.Q458Tfs*13		
+BMPR2	Exon 10	Frameshift	c.1387_1388insA	p.P463Hfs*8		
+BMPR2	Exon 10	Frameshift	c.1392delA	p.A465Pfs*9		
+BMPR2	Exon 10	Nonsense	c.1397G>A	p.W466*		
+BMPR2	Exon 10	Nonsense	c.1398G>A	p.W466*	1	NK
+BMPR2	Exon 10	Frameshift	c.1401delA	p.E468Kfs*6		
+BMPR2	Exon 10	Nonsense	c.1402G>T	p.E468*	1	H
+BMPR2	Intron 10	Splice-site	c.1413+1G>A	p.?		
+BMPR2	Intron 10	Splice-site	c.1413+3A>T	p.?		
+BMPR2	Exons 11-12	Deletion	c.1414-?_2866+?del	p.?		
+BMPR2	Exons 11-13	Deletion	c.1414-?_3117+?del	p.?		
+BMPR2	Exon 11	Nonsense	c.1424C>A	p.S475*		
+BMPR2	Exon 11	Frameshift	c.1426_1450del	p.L476Gfs*22	1	NK
+BMPR2	Exon 11	Nonsense	c.1441G>T	p.E481*	1	NK
+BMPR2	Exon 11	Nonsense	c.1451G>A	p.W484*	1	H
+BMPR2	Exon 11	Missense	c.1453G>A	p.D485N	1	P
+BMPR2	Exon 11	Nonsense	c.1456C>T	p.Q486*	1	H
+BMPR2	Exon 11	Missense	c.1460A>T	p.D487V		
+BMPR2	Exon 11	Missense	c.1471C>T	p.R491W		
+BMPR2	Exon 11	Missense	c.1472G>A	p.R491Q		
+BMPR2	Exon 11	Frameshift	c.1477dupA	p.T493Nfs*6	1	NK
+BMPR2	Exon 11	Nonsense	c.1483C>T	p.Q495*		
+BMPR2	Exon 11	Missense	c.1486T>C	p.C496R	1	NK
+BMPR2	Exon 11	Missense	c.1516A>G	p.M506V		
+BMPR2	Exon 11	Nonsense	c.1523G>A	p.W508*		
+BMPR2	Exon 11	Nonsense	c.1525G>T	p.E509*		
+BMPR2	Intron 11	Splice site	c.1587-7_1587-4delCTTT	p.?	1	I
+BMPR2	Exon 12	Missense	c.1598A>G	p.H533R		
+BMPR2	Exon 12	Nonsense	c.1629T>G	p.Y543*	1	I
+BMPR2	Exon 1	Nonsense	c.16C>T	p.Q6*	2	"I, NK"
+BMPR2	Exon 1	Nonsense	c.16C>T	p.Q6*		
+BMPR2	Exon 12	Nonsense	c.1750C>T	p.R584*	1	NK
+BMPR2	Exon 12	Nonsense	c.1750C>T	p.R584*		
+BMPR2	Exon 12	Missense	c.1766A>G	p.Y589C		
+BMPR2	Exon 12	Nonsense	c.1771C>T	p.R591*		
+BMPR2	Exon 12	Nonsense	c.1789C>T	p.R597*	1	NK
+BMPR2	Exon 2	Missense	c.178T>C	p.C60R	1	NK
+BMPR2	Exon 2	Missense	c.178T>G	p.C60G		
+BMPR2	Exon 12	Frameshift	c.1968dupA	p.Q657Tfs*18		
+BMPR2	Exon 12	Nonsense	c.1969C>T	p.Q657*	2	"I, NK"
+BMPR2	Exon 2	Missense	c.196T>C	p.C66R		
+BMPR2	Exon 2	Missense	c.196T>G	p.C66G	1	NK
+BMPR2	Exon 12	Nonsense	c.1978G>T	p.E660*		
+BMPR2	Exon 2	Missense	c.197G>A	p.C66Y		
+BMPR2	Exon 12	Nonsense	c.1981G>T	p.E661*	1	NK
+BMPR2	Exon 12	Frameshift	c.2009delC	p.P670Qfs*30		
+BMPR2	Exon 2	Missense	c.200A>G	p.Y67C		
+BMPR2	Exon 2	Frameshift	c.200dupA	p.Y67*		
+BMPR2	Exon 12	Frameshift	c.2128delC	p.L710Sfs*2		
+BMPR2	Exon 1	Frameshift	c.21delG	p.W9Gfs*38		
+BMPR2	Exon 12	Frameshift	c.2286delC	p.N764Ifs*8		
+BMPR2	Exon 12	Frameshift	c.2291dupA	p.N764Kfs*49	1	H
+BMPR2	Exon 12	Missense	c.2296A>G	p.T766A		
+BMPR2	Exon 12	Frameshift	c.2303_2309delAGCCCCG	p.E768Gfs*2	1	NK
+BMPR2	Exon 12	Frameshift	c.2308delC	p.R770Gfs*2	2	NK (n= 2)
+BMPR2	Exon 12	Frameshift	c.2308delC	p.R770Gfs*2		
+BMPR2	Exon 2	Frameshift	c.236_238delinsAAAAGGGGACA	p.L79Qfs*5	1	NK
+BMPR2	Exon 2	Frameshift	c.237delT	p.V80*		
+BMPR2	Exon 2	Frameshift	c.240_241insT	p.K81*		
+BMPR2	Exon 12	Frameshift	c.2413dupA	p.T805Nfs*8		
+BMPR2	Exon 12	Frameshift	c.2446_2447dupGT	p.N817Lfs*23		
+BMPR2	Exon 2	Nonsense	c.244C>T	p.Q82*		
+BMPR2	Exon 2	Frameshift	c.246dupA	p.G83Rfs*15	1	H
+BMPR2	Intron 2	Splice site	c.247+1G>A	p.?	1	NK
+BMPR2	Intron 2	Splice-site	c.247+2delC	"p.G47_Q82del, G63_Q82del"		
+BMPR2	Intron 2	Splice-site	c.247+6T>G	"p.G47_Q82del, G63_Q82del"		
+BMPR2	Exon 3	Deletion	c.248-?_418+?del	p.?		
+BMPR2	Intron 2	Splice-site	c.248-3T>G	p.?		
+BMPR2	Intron 2 to exon 3	Deletion	c.248-592_413delinsGTAAAGTA	p.?		
+BMPR2	Exon 3	Deletion	c.248_?_418+?del	p.?	[4]	"I (n= 3), NK"
+BMPR2	Exon 3	Duplication	c.248_?_418+?dup	p.?	1	H
+BMPR2	Exon 12	Frameshift	c.2484delG	p.T829Qfs*10	1	H
+BMPR2	Exon 12	Frameshift	c.2503_2506delACAA	p.T835Pfs*3		
+BMPR2	Exon 12	Frameshift	c.2503dupA	p.T835Nfs*8		
+BMPR2	Exon 12	Frameshift	c.2504delC	p.T835Kfs*4		
+BMPR2	Exon 3	Missense	c.251G>T	p.C84F		
+BMPR2	Exon 12	Frameshift	c.2521_2522dupCA	p.R842Ifs*18		
+BMPR2	Exon 12	Nonsense	c.2533G>T	p.E845*	1	I
+BMPR2	Exon 3	Nonsense	c.255G>A	p.W85*		
+BMPR2	Exon 12	Missense	c.2588G>A	p.S863N		
+BMPR2	Exon 12	Nonsense	c.2617C>T	p.R873*		
+BMPR2	Exon 12	Missense	c.2618G>A	p.R873Q		
+BMPR2	Exon 12	Nonsense	c.2626C>T	p.Q876*		
+BMPR2	Exon 12	Frameshift	c.2668delA	p.R890Gfs*6		
+BMPR2	Exon 3	Missense	c.266G>C	p.G89A		
+BMPR2	Exon 12	Nonsense	c.2695C>T	p.R899*	3	"H (n= 2), NK"
+BMPR2	Exon 12	Nonsense	c.2695C>T	p.R899*		
+BMPR2	Exon 12	Nonsense	c.2730T>A	p.C910*	1	H
+BMPR2	Exon 12	Nonsense	c.2737C>T	p.Q913*	1	I
+BMPR2	Exon 3	Nonsense	c.274C>T	p.Q92*		
+BMPR2	Exon 12	Nonsense	c.2752C>T	p.Q918*		
+BMPR2	Exon 3	Missense	c.276A>C	p.Q92H		
+BMPR2	Exon 3	Frameshift	c.277dupG	p.E93Gfs*5		
+BMPR2	Exon 1	Nonsense	c.27G>A	p.W9*		
+BMPR2	Exon 3	Missense	c.280T>G	p.C94G	1	NK
+BMPR2	Exon 3	Missense	c.292G>A	p.E98K		
+BMPR2	Exon 3	Nonsense	c.292G>T	p.E98*		
+BMPR2	Exon 3	Nonsense	c.320C>G	p.S107*		
+BMPR2	Exon 3	Missense	c.338A>G	p.Y113C		
+BMPR2	Exon 3	Frameshift	c.338dupA	p.Y113*		
+BMPR2	Exon 3	Frameshift	c.339_340insAA	p.R114Nfs*39	1	H
+BMPR2	Exon 3	Nonsense	c.339C>A	p.Y113*		
+BMPR2	Exon 3	Frameshift	c.345_346delCT	p.F115Lfs*4	1	NK
+BMPR2	Exon 3	Missense	c.349T>C	p.C117R		
+BMPR2	Exon 3	Missense	c.350G>A	p.C117Y	1	NK
+BMPR2	Exon 3	Frameshift	c.353delG	p.C118Lfs*34	1	NK
+BMPR2	Exon 3	Missense	c.353G>A	p.C118Y		
+BMPR2	Exon 3	Missense	c.354T>G	p.C118W	1	I
+BMPR2	Exon 3	Missense	c.367T>C	p.C123R		
+BMPR2	Exon 3	Frameshift	c.371dupA	p.N124Kfs*6		
+BMPR2	Exon 3	Missense	c.377A>G	p.N126S	1	NK
+BMPR2	Exon 3	Missense	c.377A>G	p.N126S		
+BMPR2	Exon 1	Nonsense	c.38G>A	p.W13*	1	H
+BMPR2	Exon 1	Nonsense	c.38G>A	p.W13*		
+BMPR2	Exon 3	Frameshift	c.399delT	p.P134Lfs*18		
+BMPR2	Exon 1	Nonsense	c.39G>A	p.W13*		
+BMPR2	Exon 3	Frameshift	c.407_408delCA	p.T136Nfs*10		
+BMPR2	Exon 3	Frameshift	c.408_412delAACAC	p.P138Qfs*7		
+BMPR2	Intron 3	Splice-site	c.418+3A>T	p.?		
+BMPR2	Intron 3	Splice-site	c.418+5G>A	p.?		
+BMPR2	Exons 4-8	Duplication	c.419-?_1128+?dup	p.?		
+BMPR2	Exons 4-13	Deletion	c.419-?_3117+?del	p.?		
+BMPR2	Exons 4-5	Deletion	c.419-?_621+?del	p.?		
+BMPR2	Intron 3	Splice-site	c.419-10T>C	p.?		
+BMPR2	Exons 4-10	Deletion	c.419_?_1413+?del	p.?	1	NK
+BMPR2	Exon 4	Deletion	c.419_?_529+?del	p.?	1	NK
+BMPR2	Exons 4-7	Deletion	c.419_?_967+?del	p.?	[2]	"I, NK"
+BMPR2	Exon 4	Frameshift	c.420_421insG	p.P141Afs*6		
+BMPR2	Exon 4	Frameshift	c.435delT	p.F145Lfs*7	1	NK
+BMPR2	Exon 4	Nonsense	c.439C>T	p.R147*	1	H
+BMPR2	Exon 4	Nonsense	c.439C>T	p.R147*		
+BMPR2	Exon 4	Frameshift	c.449dupC	p.I151Nfs*30		
+BMPR2	Exon 4	Missense	c.461C>G	p.A154G		
+BMPR2	Exon 1	Nonsense	c.47G>A	p.W16*		
+BMPR2	Exon 4	Nonsense	c.482T>A	p.L161*	1	I
+BMPR2	Exon 1	Nonsense	c.48G>A	p.W16*	1	I
+BMPR2	Exon 1	Nonsense	c.48G>A	p.W16*		
+BMPR2	Exon 4	Frameshift	c.498delT	p.A167Pfs*9		
+BMPR2	Exon 4	Nonsense	c.507C>A	p.C169*		
+BMPR2	Exons 1-6	Deletion	c.51_814del	p.I18Hfs*25		
+BMPR2	Exon 4	Nonsense	c.516C>G	p.Y172*		
+BMPR2	Exon 4	Frameshift	c.528delA	p.G177Efs*10		
+BMPR2	Intron 4	Splice-site	c.529+2T>C	p.?		
+BMPR2	Exon 5	Deletion	c.530_?_621+?del	p.?	1	NK
+BMPR2	Exon 5	Nonsense	c.541C>T	p.Q181*	1	H
+BMPR2	Exon 5	Frameshift	c.551_573del	p.H184Rfs*8		
+BMPR2	Exon 5	Frameshift	c.608_609delTG	p.L203Qfs*16		
+BMPR2	Exon 6	Deletion	c.622-?_852+?del	p.?		
+BMPR2	Exons 6-7	Deletion	c.622-?_967+?del	p.?		
+BMPR2	Exon 6	Nonsense	c.631C>T	p.R211*		
+BMPR2	Exon 6	Nonsense	c.637C>T	p.R213*	1	H
+BMPR2	Exon 6	Nonsense	c.637C>T	p.R213*		
+BMPR2	Exon 6	Nonsense	c.642T>G	p.Y214*	1	NK
+BMPR2	Exon 6	Frameshift	c.659dupG	p.S221Lfs*4		
+BMPR2	Exon 6	Frameshift	c.673_679delCGTCCAG	p.R225Lfs*3	1	H
+BMPR2	Exon 6	Missense	c.690A>T	p.K230N		
+BMPR2	Exon 6	Missense	c.727G>A	p.E243K		
+BMPR2	Exon 6	Missense	c.727G>C	p.E243Q		
+BMPR2	Exon 6	Nonsense	c.727G>T	p.E243*	1	I
+BMPR2	Intron 1	Splice site	c.76+1G>T	p.?	1	H
+BMPR2	Intron 1	Splice site	c.76+2T>C	p.?	1	NK
+BMPR2	Exon 2	Deletion	c.77-?_247+?del	p.?		
+BMPR2	Exon 2	Duplication	c.77-?_247+?dup	p.?		
+BMPR2	Exons 2-13	Deletion	c.77-?_3117+?del	p.?		
+BMPR2	Exons 2-3	Deletion	c.77-?_418+?del	p.?		
+BMPR2	Exons 2-3	Duplication	c.77-?_418+?dup	p.?		
+BMPR2	Exons 2-7	Duplication	c.77-?_967+?dup	p.?		
+BMPR2	Intron 1	Splice-site	c.77-35_86del	p.?		
+BMPR2	Exons 2-9	Deletion	c.77_?_1276+?del	p.?	1	NK
+BMPR2	Exons 2-5	Deletion	c.77_?_621+?del	p.?	1	H
+BMPR2	Intron 1	Splice site	c.77-1G>A	p.A26Efs*9	1	H
+BMPR2	Exon 6	Frameshift	c.782_783delTA	p.I261Sfs*4		
+BMPR2	Exon 6	Frameshift	c.795_796delinsTT	p.E265_L1038delinsD	1	NK
+BMPR2	Exon 6	Frameshift	c.796_799delAGAG	p.R266Sfs*12		
+BMPR2	Exon 6	Frameshift	c.802dupA	p.T268Nfs*30		
+BMPR2	Exon 6	Frameshift	c.804delT	p.A269Qfs*10		
+BMPR2	Exon 6	Missense	c.818T>G	p.M273R		
+BMPR2	Exon 2	Nonsense	c.82C>T	p.Q28*	1	NK
+BMPR2	Exon 6	Missense	c.830T>C	p.L277P		
+BMPR2	Intron 6	Splice-site	c.852+1G>A	p.?		
+BMPR2	Exon 7	Duplication	c.853-?_967+?dup	p.?		
+BMPR2	Intron 6	Splice-site	c.853-2A>G	p.?		
+BMPR2	Intron 6	Splice site	c.853-1G>A	p.?	1	NK
+BMPR2	Intron 6	Splice site	c.853-2A>G	p.?	1	NK
+BMPR2	Exon 7	Nonsense	c.860T>A	p.L287*	1	H
+BMPR2	Exon 7	Frameshift	c.872delT	p.L291*		
+BMPR2	Exon 7	Nonsense	c.872T>G	p.L291*	1	NK
+BMPR2	Exon 2	Nonsense	c.88C>T	p.Q30*		
+BMPR2	Exon 7	Nonsense	c.893G>A	p.W298*	1	NK
+BMPR2	Exon 7	Frameshift	c.894_895dupGG	p.V299Gfs*2	1	H
+BMPR2	Exon 7	Missense	c.901T>C	p.S301P		
+BMPR2	Exon 2	Nonsense	c.91G>T	p.E31*		
+BMPR2	Exon 7	Missense	c.954A>C	p.E318D		
+BMPR2	Exon 7	Nonsense	c.961C>T	p.R321*		
+BMPR2	Exon 7	Frameshift	c.961delC	p.R321Efs*14	1	NK
+BMPR2	Intron 7	Splice site	c.967+2T>C	p.?	1	H
+BMPR2	Intron 7	Splice-site	c.967+5G>C	p.?		
+BMPR2	Intron 7	Splice-site	c.967+5G>T	p.?		
+BMPR2	Exon 8	Deletion	c.968-?_1128+?del	p.?		
+BMPR2	Exons 8-9	Deletion	c.968-?_1276+?del	p.?		
+BMPR2	Exons 8-10	Duplication	c.968-?_1413+?dup	p.?		
+BMPR2	Intron 7	Splice-site	c.968-2A>C	p.?		
+BMPR2	Intron 7	Splice site	c.968-1G>T	p.?	1	NK
+BMPR2	Intron 7	Splice site	c.968-3C>G	p.?	1	NK
+BMPR2	Exon 8	Missense	c.992A>G	p.H331R		
+BMPR2	Exon 8	Nonsense	c.994C>T	p.R332*	1	NK
+BMPR2	Exon 8	Nonsense	c.994C>T	p.R332*		
+BMPR2	Exon 1	Frameshift	c.9dupC	p.S4Lfs*34	1	NK
