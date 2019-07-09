@@ -196,10 +196,10 @@ def main(gfile,vfile,ffasta,fout):
     loadFasta(ffasta)
     outf=open(fout,'w')
     outf.write("GeneName"+'\t'+"Start"+'\t'+"End"+'\t'+"REF"+'\t'+"ALT"+'\t'+"rawref"+'\t'+"sequence"+'\t')
-    vgene="BMPR2"
-    var="c.-669G>A"
-    decode_NC(var,vgene)
-    exit()
+    #vgene="BMPR2"
+    #var="c.-669G>A"
+   # decode_NC(var,vgene)
+  #  exit()
     try:
         fv=open(vfile,"r")
         line=fv.readline()
