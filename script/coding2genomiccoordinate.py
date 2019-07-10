@@ -28,11 +28,14 @@ def Indexnumber(word,id):
 def searchinterval (cn,gene):
     global dict_cstart 
     starts=sorted(dict_cstart.get(gene))
-    print starts
+    ends=sorted(dict_cend.get(gene))
+#    print starts
     for j in range(0,len(starts)):
-        print str(starts[j])+'\t'+str(cn)
+#        print str(starts[j])+'\t'+str(cn)
         if starts[j] > cn:
             break;
+    if cn > starts[len(starts)-1]:
+        return len(starts)-1
     if j ==0:
         return j
     else:
@@ -60,32 +63,37 @@ def decode_NC(word,gene):
     id1=Indexnumber(word,2)
     n1=int(word[2:id1])
     j=searchinterval(n1,gene)
-    print str(n1)+'\t'+str(starts[j])
+   # print starts
+  #  print str(n1)+'\t'+str(starts[j])
     if n1 >0:
         coor1=gstarts[j]+strand*(n1-starts[j])
     else:
         coor1=gstarts[j]+strand*n1
-  #  print str(gstarts[j])+'\t'+str(coor1)+'\t'+str(n1)+'\t'+str(starts[j])
     alt=""
     ref=""
-    for i in range(id1,len(word)):
+    i=id1
+    while i <len(word):
         id=i+1;
         if word[i]=='+' or word[i]=='-' :
-            id=Indexnumber(word,i+1)
-            n=int(word[i+1:id])
+            idx=Indexnumber(word,i+1)
+            n=int(word[i+1:idx])
             if word[i]=='+':
                 coor1=coor1+int(strand)*n
             elif word[i]=='-':
                 coor1=coor1-int(strand)*n
+            i=idx
         elif word[i]=="_":
             num.append(coor1)
             id1=Indexnumber(word,i+1)
             n1=int(word[i+1:id1])
             j=searchinterval(n1,gene)
-            coor1=gstarts[j]+int(strand)*(n1-starts[j])
+            if n1 >0:
+                coor1=gstarts[j]+strand*(n1-starts[j])
+            else:
+                coor1=gstarts[j]+strand*n1
+            i=id1
         elif word[i] in {'d','i','A','C','G','T'}:
             break
-        i=id
     num.append(coor1)
     if len(num)==1:
         num.append(coor1)
@@ -196,9 +204,9 @@ def main(gfile,vfile,ffasta,fout):
     loadFasta(ffasta)
     outf=open(fout,'w')
     outf.write("GeneName"+'\t'+"Start"+'\t'+"End"+'\t'+"REF"+'\t'+"ALT"+'\t'+"rawref"+'\t'+"sequence"+'\t')
-    #vgene="BMPR2"
-    #var="c.-669G>A"
-   # decode_NC(var,vgene)
+#    vgene="BMPR2"
+ #   var="c.-127936_418+7067del"
+ #   print decode_NC(var,vgene)
   #  exit()
     try:
         fv=open(vfile,"r")
